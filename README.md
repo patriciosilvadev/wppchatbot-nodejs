@@ -52,7 +52,6 @@ Projeto desenvolvido por alunos do curso Ciência da Computação da Faculdade E
 | ALUNO | MATRICULA |
 | ----- | --------- |
 | Raquel Martins Nunes | 201908343222
-| Artur Vinicius Delmiro Lacerda | 201908606568
 | Alexandre Igor Noia Lacerda Silva | 201908412534
 | Pedro Emmanuel Dias Medeiros | 201908354399
 | Marcus Vinicius Silva Souza | 201908354356
